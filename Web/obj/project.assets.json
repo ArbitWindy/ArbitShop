@@ -52,11 +52,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arbit\\Desktop\\arbitshop\\web\\Web.csproj",
+      "projectUniqueName": "C:\\Users\\arbit\\source\\repos\\ArbitShop\\web\\Web.csproj",
       "projectName": "Web",
-      "projectPath": "C:\\Users\\arbit\\Desktop\\arbitshop\\web\\Web.csproj",
+      "projectPath": "C:\\Users\\arbit\\source\\repos\\ArbitShop\\web\\Web.csproj",
       "packagesPath": "C:\\Users\\arbit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arbit\\Desktop\\arbitshop\\web\\obj\\",
+      "outputPath": "C:\\Users\\arbit\\source\\repos\\ArbitShop\\web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -75,11 +75,11 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\arbit\\Desktop\\arbitshop\\applicationcore\\ApplicationCore.csproj": {
-              "projectPath": "C:\\Users\\arbit\\Desktop\\arbitshop\\applicationcore\\ApplicationCore.csproj"
+            "C:\\Users\\arbit\\source\\repos\\ArbitShop\\applicationcore\\ApplicationCore.csproj": {
+              "projectPath": "C:\\Users\\arbit\\source\\repos\\ArbitShop\\applicationcore\\ApplicationCore.csproj"
             },
-            "C:\\Users\\arbit\\Desktop\\arbitshop\\infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\arbit\\Desktop\\arbitshop\\infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\arbit\\source\\repos\\ArbitShop\\infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\arbit\\source\\repos\\ArbitShop\\infrastructure\\Infrastructure.csproj"
             }
           }
         }

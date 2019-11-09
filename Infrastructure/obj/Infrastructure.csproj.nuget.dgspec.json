@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arbit\\Desktop\\arbitshop\\infrastructure\\Infrastructure.csproj": {}
+    "C:\\Users\\arbit\\source\\repos\\ArbitShop\\infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arbit\\Desktop\\arbitshop\\applicationcore\\ApplicationCore.csproj": {
+    "C:\\Users\\arbit\\source\\repos\\ArbitShop\\applicationcore\\ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arbit\\Desktop\\arbitshop\\applicationcore\\ApplicationCore.csproj",
+        "projectUniqueName": "C:\\Users\\arbit\\source\\repos\\ArbitShop\\applicationcore\\ApplicationCore.csproj",
         "projectName": "ApplicationCore",
-        "projectPath": "C:\\Users\\arbit\\Desktop\\arbitshop\\applicationcore\\ApplicationCore.csproj",
+        "projectPath": "C:\\Users\\arbit\\source\\repos\\ArbitShop\\applicationcore\\ApplicationCore.csproj",
         "packagesPath": "C:\\Users\\arbit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arbit\\Desktop\\arbitshop\\applicationcore\\obj\\",
+        "outputPath": "C:\\Users\\arbit\\source\\repos\\ArbitShop\\applicationcore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\arbit\\Desktop\\arbitshop\\infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\arbit\\source\\repos\\ArbitShop\\infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arbit\\Desktop\\arbitshop\\infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\arbit\\source\\repos\\ArbitShop\\infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\arbit\\Desktop\\arbitshop\\infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\arbit\\source\\repos\\ArbitShop\\infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\arbit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arbit\\Desktop\\arbitshop\\infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\arbit\\source\\repos\\ArbitShop\\infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -88,8 +88,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\arbit\\Desktop\\arbitshop\\applicationcore\\ApplicationCore.csproj": {
-                "projectPath": "C:\\Users\\arbit\\Desktop\\arbitshop\\applicationcore\\ApplicationCore.csproj"
+              "C:\\Users\\arbit\\source\\repos\\ArbitShop\\applicationcore\\ApplicationCore.csproj": {
+                "projectPath": "C:\\Users\\arbit\\source\\repos\\ArbitShop\\applicationcore\\ApplicationCore.csproj"
               }
             }
           }

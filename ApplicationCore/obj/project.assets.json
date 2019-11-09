@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arbit\\Desktop\\arbitshop\\ApplicationCore\\ApplicationCore.csproj",
+      "projectUniqueName": "C:\\Users\\arbit\\source\\repos\\ArbitShop\\applicationcore\\ApplicationCore.csproj",
       "projectName": "ApplicationCore",
-      "projectPath": "C:\\Users\\arbit\\Desktop\\arbitshop\\ApplicationCore\\ApplicationCore.csproj",
+      "projectPath": "C:\\Users\\arbit\\source\\repos\\ArbitShop\\applicationcore\\ApplicationCore.csproj",
       "packagesPath": "C:\\Users\\arbit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arbit\\Desktop\\arbitshop\\ApplicationCore\\obj\\",
+      "outputPath": "C:\\Users\\arbit\\source\\repos\\ArbitShop\\applicationcore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

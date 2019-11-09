@@ -1,0 +1,7 @@
+ApplicationCore/obj/
+ApplicationCore/bin/
+Infrastructure/obj/
+Infrastructure/bin/
+Web/obj/
+Web/bin/
+.vscode/
